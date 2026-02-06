@@ -1,0 +1,50 @@
+Twisted Pair Specifications:
+Cable Categories (MEMORIZE!):
+• Cat5: 100 Mbps, 100 MHz, OBSOLETE (don't use!)
+• Cat5e: 1 Gbps, 100 MHz, 100m - MINIMUM
+today
+• Cat6: 10 Gbps (55m), 1 Gbps (100m), 250 MHz - RECOMMENDED
+• Cata: 10 Gbps (100m), 500 MHz, shielded - HIGH PERFORMANCE
+• Cat7: 10+ Gbps, 600 MHz, fully shielded -
+FUTURE/DATA CENTER
+Maximum Distance: 100 meters (328 feet) for ALL categories
+• Includes patch cables at both ends
+• Beyond 100m: use switch or fiber
+impact
+ACADE-
+MIES &
+CAMPS
+Wire Gauge: 22-24 AWG
+(American Wire Gauge)
+• Lower number = thicker wire = better but expensive
+• 23 AWG common for Cat6
+4 Pairs = 8 Wires:
+• Pair 1: Blue/White-Blue
+• Pair 2: Orange/White-Orange
+• Pair 3: Green/White-Green
+• Pair 4: Brown/White-Brown
+Connector: RJ-45 (8P8C - 8
+position, 8 contact)
+
+
+UTP VS STP
+UTP (Unshielded Twisted Pair):
+No Shielding,
+Lighter,
+cheaper, most
+common. Good environment.
+for normal office
+STP (Shielded Twisted Pair): Metal foil/braid shield protects from EMI.
+Heavier, expensive, grounded. Use near electrical interference (motors, generators,
+fluorescent lights). Both
+use same RJ-45 connectors.
+
+
+Straight-Through vs Crossover Cables
+Straight-Through: Same pin layout both ends (T568A or T568B both ends).
+Use PC→Switch, Switch→Router, Router→PC. 99% of cables.
+Crossover: Flipped transmit/receive pins. T568A one end, T568B other end.
+OLD USE: PC→PC, Switch→Switch.
+TODAY: Auto-MDI-X eliminates need! Modern devices auto-detect and adjust.
+Still
+useful for troubleshooting.
