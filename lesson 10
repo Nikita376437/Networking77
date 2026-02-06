@@ -85,3 +85,11 @@ Industrial (motors nearby): Cata STP.
 Home office: Cat6 UTP.
 ISP connection: Single-mode fiber or coax.
 Remember: Cat good default choice! Future-proof without breaking budget.
+
+
+DHCP - Dynamic IP Assignment
+DHCP: Ports 67 (server), 68 (client), UDP. Automatically assigns IP addresses to clients.
+DORA process: Discover (client broadcasts 'need IP'), Offer (server offers IP), Request (client requests offered IP), Acknowledge (server confirms) .
+Lease time: How long client can use IP.
+Scope: Range of IPs server can assign. Reservations: Specific IP for specific MAC address.
+Without DHCP: manual IP configuration on every device!
