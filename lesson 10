@@ -70,4 +70,18 @@ lightweight.
 DISADVANTAGES: Expensive, fragile, requires specialized equipment, difficult to terminate.
 
 
+Wireless Media Basics
+Radio frequency (RF) waves carry data through air. No physical cable!
+ADVANTAGES: Mobility, easy deployment, reaches difficult areas.
+DISADVANTAGES: Interference, security issues, slower than wired, distance limited, obstacles block signal. Standards: 802.11 (WiFi).
+Frequencies: 2.4 GHz (longer range, more interference), 5 GHz (faster, shorter range), 6 GHz (newest, fastest).
+Use: Mobile devices, temporary setups, supplements wired. Detailed wireless in Lesson 14!
 
+
+Desktop to switch (100m): Cat6 UTP.
+Data center rack-to-rack (10m): Multi-mode fiber OM4 LC.
+Building-to-building (500m): Single-mode fiber LC.
+Industrial (motors nearby): Cata STP.
+Home office: Cat6 UTP.
+ISP connection: Single-mode fiber or coax.
+Remember: Cat good default choice! Future-proof without breaking budget.
