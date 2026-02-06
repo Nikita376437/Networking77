@@ -48,3 +48,26 @@ OLD USE: PC→PC, Switch→Switch.
 TODAY: Auto-MDI-X eliminates need! Modern devices auto-detect and adjust.
 Still
 useful for troubleshooting.
+
+
+EMI and Crosstalk
+EMI (Electromagnetic Interference):
+External interference from power lines, motors, fluorescent lights, microwaves. Causes signal distortion.
+Solution: Shielded cable or route away from sources. Crosstalk: Signal from one wire pair bleeds into adjacent pair.
+NEAR-END (NEXT): Interference at transmit end.
+FAR-END (FEXT): Interference at receive end.
+Solution: Better cable category (more twists), proper termination.
+
+
+Fiber Optic Overview
+Glass or plastic fiber transmits data as LIGHT pulses instead of electrical signals.
+Core: carries light.
+Cladding: reflects light back into core (total internal reflection).
+Buffer: protects fiber.
+ADVANTAGES: Immune to EMI, long distances (km), high bandwidth (100+ Gbps),
+secure (hard to tap),
+lightweight.
+DISADVANTAGES: Expensive, fragile, requires specialized equipment, difficult to terminate.
+
+
+
