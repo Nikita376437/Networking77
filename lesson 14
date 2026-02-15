@@ -1,0 +1,14 @@
+What is a VPN?
+SIMPLE: Virtual Private Network = secure
+tunnel through Internet! Imagine sending mail in locked box instead of postcard.
+VPN encrypts your data (locks box) so hackers can't read it. Makes public
+Internet act like private company network.
+Like having dedicated cable from home to office, but using Internet!
+
+
+TECHNICAL:
+VPN extends private network across public network (Internet). 
+ Enables users to send/receive data as if directly connected to private network.
+ Creates encrypted tunnel between endpoints.
+Uses encapsulation and encryption to secure data traversing untrusted networks. 
+Provides authentication, data integrity, confidentiality.
