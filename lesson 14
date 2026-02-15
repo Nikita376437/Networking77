@@ -12,3 +12,16 @@ VPN extends private network across public network (Internet).
  Creates encrypted tunnel between endpoints.
 Uses encapsulation and encryption to secure data traversing untrusted networks. 
 Provides authentication, data integrity, confidentiality.
+
+
+Firewalls — Network Security Gatekeepers
+
+SIMPLE:
+Network BOUNCER!
+ Sits between networks, allows good traffic, blocks bad traffic. 
+Like nightclub bouncer checking IDs — valid ID = enter, no ID = denied! Inspects every packet, decides allow or block based on rules.
+
+TECHNICAL:
+Network security device that monitors and controls incoming/outgoing traffic based on predetermined security rules.
+ Establishes barrier between trusted internal network and untrusted external network (Internet). 
+First line of defense.
